@@ -1,108 +1,151 @@
-# <p align="center">Blog Portal !!</p>
+# <p align="center">✨Blog Portal✨</p>
 
-# <p align="center">```Champions Squad```</p>
+# <p align="center">`Champions Squad`</p>
 
-<center><h2 align="center">Introduction📌</h2></center>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-A blog portal named Champions Squad was created in the 24-hours hackathon named ```Tech-A-Thon``` held on ```3rd-4th September,2022``` where users can write and publish any kind of blogs and manage them with different functionalities. <br><br>
+<div id="top"></div>
 
-<center><h2 align="center">Features💫</h2></center>
+<h2>Table of Contents🧾</h2>
+
+- [Introduction📌](#introduction)
+- [Technology Used🚀](#technology-used)
+- [Top Features⭐](#top-features)
+- [Overview💫](#overview)
+- [Getting Started💥](#getting-started)
+- [Contributing Guidelines📑](#contributing-guidelines)
+- [Code Of Conduct📑](#code-of-conduct)
+- [Project Admin⚡](#project-admin)
+- [Contributing is fun🧡](#contributing-is-fun)
+<br>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2>Introduction📌</h2>
+
+A blog portal named Champions Squad was created in the 24-hours hackathon named `Tech-A-Thon` held on `3rd-4th September,2022` where users can write and publish any kind of blogs and manage them with different functionalities.
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2>Technology Used🚀</h2>
+
+<p>
+  <a href="https://www.w3schools.com/php/"> <img src="https://img.icons8.com/dusk/70/000000/php-logo.png" alt="PHP" />
+  <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/70/000000/css3.png" alt="CSS" />
+  <a href="https://www.w3schools.com/js/"> <img src="https://img.icons8.com/color/70/000000/javascript--v1.png" alt="JS" />
+</p>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2>Top Features⭐</h2>
 
 - Added rich text editor (with images) to write the blog.
 - Public users can search blogs available on the platform.
 - Public users can share the blog via a unique link.
 - Blogs are sorted and displayed based on popularity by likes.
-- Admin has some more features than sub-admin. <br><br>
+- Admin has some more features than sub-admin.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-<center><h2 align="center">Top Technology Used🚀</h2></center>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<p align="center">
-  <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://img.icons8.com/dusk/70/000000/php-logo.png"/>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/70/000000/css3.png"/>
-  <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/color/70/000000/javascript--v1.png"/>
-</p>
-  
-<center><h2 align="center">Overview of Blog Website⭐</h2></center>
+<h2>Overview💫</h2>
 
-- ## ```Home Page```
+- ## `Home Page`
 ![1](https://user-images.githubusercontent.com/73993775/188495904-1b898f45-5bb3-439a-a2df-5f1e047d0415.jpg)
-- ## ```Blog Page```
+- ## `Blog Page`
 ![2](https://user-images.githubusercontent.com/73993775/188495911-4e956bc5-7eb5-47ad-bfd5-37dd0d1b885b.jpg)
-- ## ```About Us Page```
+- ## `About Us Page`
 ![3](https://user-images.githubusercontent.com/73993775/188495923-15bc4279-4e26-414b-bf02-37ec98cee9ad.jpg)
-- ## ```Contact Us Page```
+- ## `Contact Us Page`
 ![4](https://user-images.githubusercontent.com/73993775/188496050-2abc581f-f12b-4b0e-80a8-e6851ad4a0f6.jpg)
-- ## ```Admin/Sub-admin Login Page```
+- ## `Admin/Sub-admin Login Page`
 ![5](https://user-images.githubusercontent.com/73993775/188496197-346b0acd-80ba-4e83-a052-a69ba090e8f4.jpg)
-- ## ```Admin Dashboard```
+- ## `Admin Dashboard`
 ![admin](https://user-images.githubusercontent.com/73993775/188496247-aa8e99e2-6756-4b8b-bd52-a0eeea2202fb.jpg)
-- ## ```Sub-Admin Dashboard```
-![subadmin](https://user-images.githubusercontent.com/73993775/188496288-ba1119ae-e837-4bd6-ad5e-c668617e1cde.jpg) <br><br>
+- ## `Sub-Admin Dashboard`
+![subadmin](https://user-images.githubusercontent.com/73993775/188496288-ba1119ae-e837-4bd6-ad5e-c668617e1cde.jpg)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-<center><h2 align="center">Getting Started💥</h2></center>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+    
+<h2>Getting Started💥</h2>
 
 - Fork this Repository.
-- Clone the forked repository.
-```bash
-git clone https://github.com/<your-github-username>/blogportal
+- Clone the forked repository in your local system.
+```
+git clone https://github.com/<your-github-username>/Blog-Portal.git
 ```
 - Ensure all the files of this project are in your local system.
-- Open the phpMyAdmin from the Xampp server in a browser and import the database named ```bmsdb.sql```.
-- Then open the new tab of the browser and type ```localhost/bms/index.php```.
+- Open the phpMyAdmin from the Xampp server in a browser and import the database named `bmsdb.sql`.
+- Then open the new tab of the browser and type `localhost/bms/index.php`.
 - You can explore the project and different features and login to the admin and sub-admin dashboard.
-- To login to the admin dashboard, use the Username ```admin``` and Password ```1234```.
-- To login to the sub-admin dashboard, use the Username ```subadmin``` and Password ```1234```.
-- Raise an issue.
-- Wait for the issue to be assigned to you.
+- To login to the admin dashboard, use the Username `admin` and Password `1234`.
+- To login to the sub-admin dashboard, use the Username `subadmin` and Password `1234`.
+- Raise an issue if you find a bug or add a feature.
+- Wait for the issue to be assigned and proceed only after the issue is assigned to you.
 - Navigate to the project directory.
-```bash
-cd blogportal
 ```
-- Create new branch for your feature.
-- Make all changes of source code using code editor in the new branch.
-<img src="https://user-images.githubusercontent.com/74819092/124509254-3faa9c00-ddef-11eb-9fd5-4e2ca9ee64cb.png">
-
-- Stage your changes and commit
-```bash
-#Track the changes
+cd Blog-Portal
+```
+- Create a new branch for your feature.
+```
+git checkout -b <your_branch_name>
+```
+- Perfom your desired changes to the code base.
+- Track and stage your changes.
+```
+# Track the changes
 git status
 
-#Add changes to Index
+# Add changes to Index
 git add .
-
-#Commit to the local repo
-git commit -m "<your_commit_message>"
 ```
-- Push your local commits to the remote repo.
-```bash
-git push origin <your_new_branch_name>
+- Commit your changes.
 ```
-- Submit your changes for review and suggestions would also be added to improve it.
-- And Boom! You're done 🥳
-- I will review and merge your changes into the master branch of this project. You will be automatically notified via E-mail once the changes have been merged.
+git commit -m "your_commit_message"
+```
+- Push your committed changes to the remote repo.
+```
+git push origin <your_branch_name>
+```
+- Go to your forked repository on GitHub and click on `Compare & pull request`.
+- Add an appropriate title and description to your pull request explaining your changes and efforts done.
+- Click on `Create pull request`.
+- Congrats! 🥳 You've made your first pull request to this project repo.
+- Wait for your pull request to be reviewed and if required suggestions would be provided to improve it.
+- Celebrate 🥳 your success after your pull request is merged successfully.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-<h2 align=center>Project Admin and Collaborators⚡</h2>
-
-<table align="center">
-<tr>
-  <td align="center">
-  <a href="https://github.com/Rakesh9100"><img src="https://avatars.githubusercontent.com/u/73993775?v=4" width=150px height=150px /></a> 
-  <h4 align="center">Rakesh Roshan</h4>
-  </td>
-</tr>
-</table>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2>Contributing Guidelines📑</h2>
 
-Read our Contributing Guidelines to learn about our development process, how to propose bugfixes and improvements, and how to build to blogportal.
+Read our [Contributing Guidelines](https://github.com/Rakesh9100/Blog-Portal/blob/main/.github/CONTRIBUTING_GUIDELINES.md) to learn about our development process, how to propose bugfixes and improvements, and how to build to Blog-Portal.
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2>Code Of Conduct📑</h2>
 
-This project and everyone participating in it is governed by the Code of Conduct. By participating, you are expected to uphold this code.
+This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/Rakesh9100/Blog-Portal/blob/main/.github/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-<h2>Contribution is fun!🧡</h2>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+    
+<h2>Project Admin⚡</h2>
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Rakesh9100/"><img src="https://avatars.githubusercontent.com/u/73993775?v=4" height="150px" width="150px" alt="Rakesh Roshan"></a><br><sub><b>Rakesh Roshan</b></sub><br>
+</td>
+</tr>
+</table>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+    
+<h2>Contributing is fun🧡</h2>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-### Contributions of any kind from anyone are always welcomed 🌟!!
-### Give it a 🌟 if you ❤ this project. Happy Coding 👨‍💻
+<h3>Contributions of any kind from anyone are always welcome🌟!!</h3>
+<h3>Give it a 🌟 if you ❤ this project. Happy Coding👨‍💻</h3>
+<p align="right">(<a href="#top">back to top</a>)</p>
