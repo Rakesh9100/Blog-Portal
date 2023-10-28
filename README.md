@@ -44,6 +44,7 @@ A blog portal named Champions Squad was created in the 24-hours hackathon named 
 - Public users can share the blog via a unique link.
 - Blogs are sorted and displayed based on popularity by likes.
 - Admin has some more features than sub-admin.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -64,6 +65,7 @@ A blog portal named Champions Squad was created in the 24-hours hackathon named 
 ![admin](https://user-images.githubusercontent.com/73993775/188496247-aa8e99e2-6756-4b8b-bd52-a0eeea2202fb.jpg)
 - ## `Sub-Admin Dashboard`
 ![subadmin](https://user-images.githubusercontent.com/73993775/188496288-ba1119ae-e837-4bd6-ad5e-c668617e1cde.jpg)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -114,6 +116,7 @@ git push origin <your_branch_name>
 - Congrats! 🥳 You've made your first pull request to this project repo.
 - Wait for your pull request to be reviewed and if required suggestions would be provided to improve it.
 - Celebrate 🥳 your success after your pull request is merged successfully.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -127,6 +130,7 @@ Read our [Contributing Guidelines](https://github.com/Rakesh9100/Blog-Portal/blo
 <h2>Code Of Conduct📑</h2>
 
 This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/Rakesh9100/Blog-Portal/blob/main/.github/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -136,7 +140,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/Rakesh9100/"><img src="https://avatars.githubusercontent.com/u/73993775?v=4" height="150px" width="150px" alt="Rakesh Roshan"></a><br><sub><b>Rakesh Roshan</b></sub><br>
+<a href="https://github.com/Rakesh9100/"><img src="https://avatars.githubusercontent.com/u/73993775?v=4" height="140px" width="140px" alt="Rakesh Roshan"></a><br><sub><b>Rakesh Roshan</b><br><a href="https://www.linkedin.com/in/rakesh-roshan-9100/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a></sub>
 </td>
 </tr>
 </table>
@@ -148,4 +152,6 @@ This project and everyone participating in it is governed by the [Code of Conduc
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <h3>Contributions of any kind from anyone are always welcome🌟!!</h3>
 <h3>Give it a 🌟 if you ❤ this project. Happy Coding👨‍💻</h3>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
+
