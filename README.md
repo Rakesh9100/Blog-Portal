@@ -1,4 +1,4 @@
-# <p align="center">✨Blog Portal✨</p>
+# <p align="center">🌟Blog Portal🌟</p>
 
 # <p align="center">`Champions Squad`</p>
 
